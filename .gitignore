@@ -1,4 +1,12 @@
-*.dSYM/
+# macOS
 .DS_Store
+
+# Debug files
+*.dSYM/
+
+# Python
 __pycache__/
 *.pyc
+
+# VS Code
+# .vscode/
